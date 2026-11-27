@@ -1,9 +1,1 @@
-{
-  "extends": ["next/core-web-vitals", "next/typescript"],
-  "rules": {
-    "@next/next/no-img-element": "off",
-    "no-console": ["warn", { "allow": ["warn", "error"] }],
-    "prefer-const": "error",
-    "no-var": "error"
-  }
-}
+﻿{ "extends": "next/core-web-vitals" }
