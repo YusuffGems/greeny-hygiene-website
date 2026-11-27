@@ -27,8 +27,8 @@ export const siteConfig = {
     full: "106/1, Ground Floor, Kannagi Street, Selvaganapathy Nagar, Senneerkuppam, Poonamallee, Chennai, Tamil Nadu – 600056, India.",
   },
   contact: {
-    whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "919000000000",
-    phoneNumber: process.env.NEXT_PUBLIC_PHONE_NUMBER || "+919000000000",
+    whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "9180482 10396",
+    phoneNumber: process.env.NEXT_PUBLIC_PHONE_NUMBER || "+9180482 10396",
     phoneDisplay: process.env.NEXT_PUBLIC_PHONE_DISPLAY || "Contact Number: To Be Confirmed",
     emailDisplay: process.env.NEXT_PUBLIC_EMAIL_DISPLAY || "info@greenyhygiene.com",
     businessHours: process.env.NEXT_PUBLIC_BUSINESS_HOURS || "Monday – Saturday: 10:00 AM – 7:30 PM",

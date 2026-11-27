@@ -37,5 +37,5 @@ jobs:
         run: npm run build
         env:
           NEXT_PUBLIC_SITE_URL: https://www.greenyhygiene.com
-          NEXT_PUBLIC_WHATSAPP_NUMBER: "919000000000"
-          NEXT_PUBLIC_PHONE_NUMBER: "+919000000000"
+          NEXT_PUBLIC_WHATSAPP_NUMBER: "9180482 10396"
+          NEXT_PUBLIC_PHONE_NUMBER: "+9180482 10396"
