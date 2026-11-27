@@ -1,0 +1,9 @@
+/* Custom Brand Theme Tokens for Greeny Hygiene Private Limited */
+:root {
+  --color-navy-primary: #14263D;
+  --color-charcoal-secondary: #20252B;
+  --color-gold-accent: #C49A52;
+  --color-bg-white: #FFFFFF;
+  --color-bg-muted: #F5F6F7;
+  --color-text-dark: #333333;
+}
